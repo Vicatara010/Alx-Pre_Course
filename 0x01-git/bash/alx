@@ -1,0 +1,5 @@
+echo #!/bin/bash
+echo "ALX"
+cat > bash/school
+echo #!/bin/bash
+echo "School"
